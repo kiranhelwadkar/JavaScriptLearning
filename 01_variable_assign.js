@@ -1,5 +1,5 @@
 var myFullName; 
-myFullName = "Full Name"
+// myFullName = "Full Name"
 console.log(myFullName)
 
 var myFullName; 
