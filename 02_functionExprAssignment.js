@@ -40,9 +40,9 @@ console.log("charactor at index 11 is:", string.charAt(6));
 var lenghtTotal = string.length;
 console.log("Last Charactor in given string is", string.charAt(lenghtTotal-1));
 console.log("First Charactor in given string is", string.charAt(0));
-var square = function(num){
-    console.log("Square of",  num , "=" , num*num);
-}
+// var square = function(num){
+//     console.log("Square of",  num , "=" , num*num);
+// }
 square (28);
 
  
