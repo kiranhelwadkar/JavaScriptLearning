@@ -3,7 +3,6 @@ console.log("Given string is", greet);
 
 console.log("Total character in the string is:", greet.length);
 
-
 console.log("======== concat() ==========");
 var firstName = "Kiran ";
 var lastName = "Helwadkar";
