@@ -1,7 +1,7 @@
 let professor = {
     name : "Mr. Patil",
     gender : "Male",
-    age : "55",
+    age : 55,
     city : "Kolhapur",
     degrees : {
         engineering : "CSC",

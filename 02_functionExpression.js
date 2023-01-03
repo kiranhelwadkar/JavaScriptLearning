@@ -25,3 +25,4 @@ console.log(result);
 return result;
 }
 var result = multifly (100, 20, 20);
+
