@@ -1,4 +1,4 @@
-console.log(`=============================================`);
+console.log(`==========================================`);
 const car ={
     carName : "Creta SX",
     compony : "Hyundai",
