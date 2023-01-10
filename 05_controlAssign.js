@@ -41,5 +41,5 @@ function oddPosionedChars(string){
     console.log(`Odd positioned char in the string is : ${emptyString}.`);
 }
 oddPosionedChars("Hard work always pays back");
-console.log(`----------------------------------------------\n`);
+console.log(`----------------------------------------------`);
 oddPosionedChars("soon I Will be Angular IT champ");
