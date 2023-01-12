@@ -17,10 +17,7 @@ function swapValues(Value1, Value2){
     value1 = value2;
     value2 = value1 ;
     }
-    // swapValues(100 200);
-    // swapValues(2 4);
-    // swapValues("Gaju" "Ekanth");
-    // swapValues("You", "Me");
+
 
 
 
