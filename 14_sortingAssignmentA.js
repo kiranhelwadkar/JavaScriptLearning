@@ -12,7 +12,7 @@ arrayRollNumber.sort();
 console.log(arrayRollNumber);
 
 console.log(``);
-console.log(`-----------------sort the arrayin ascending order ----------------`);
+console.log(`-----------------sort the array in ascending order ----------------`);
 arrayRollNumber.sort ((a ,b )=>{
 return a>b ? 1 : -1;
 })
